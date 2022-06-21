@@ -18,6 +18,17 @@
 }
 Heading1{
  text-decoration: none;
+ background-color: hsl(0, 0%, 95%);
+ background-color: hsl(31, 77%, 52%);
+ font-family: 'Big Shoulders Display', cursive;
+ font-size: 25px;
+ font-weight: 100;
+ margin-top: 20px;
+ position: relative;
+ right: -20px;
+ letter-spacing: 1px;
+ height: 1px;
+ width: 25px;
 }
 /* the car icons */
 img{
