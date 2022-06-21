@@ -23,8 +23,8 @@ Heading1{
  font-family: 'Big Shoulders Display', cursive;
  font-size: 25px;
  font-weight: 100;
- margin-top: 20px;
- position: relative;
+ margin-bottom: 30px;
+ position: absolute;
  right: -20px;
  letter-spacing: 1px;
  height: 1px;
