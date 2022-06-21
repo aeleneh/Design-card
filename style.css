@@ -22,7 +22,7 @@ Heading1{
  font-size: 25px;
  font-weight: 100;
  margin-top: 20px;
- disiplay: flex;
+ disiplay: inline-flex;
  position: relative;
  right: -20px;
  letter-spacing: 1px;
