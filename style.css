@@ -16,10 +16,6 @@
  justify-content: center;
  line-height: 20px;
 }
-#wrap{
- display: flex;
- flex-direction: row;
-}
 /* the car icons */
 img{
  width: 50;
