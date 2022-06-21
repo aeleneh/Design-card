@@ -17,11 +17,12 @@
  line-height: 20px;
 }
 Heading1{
- color: hsl(0, 0%, 95%);
+ color: hsl(31, 77%, 52%);
  font-family: 'Big Shoulders Display', cursive;
  font-size: 25px;
  font-weight: 100;
  margin-top: 20px;
+ disiplay: flex;
  position: relative;
  right: -20px;
  letter-spacing: 1px;
