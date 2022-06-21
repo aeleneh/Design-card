@@ -16,6 +16,18 @@
  justify-content: center;
  line-height: 20px;
 }
+.Heading{
+ color: color: hsl(0, 0%, 95%);
+ font-family: 'Big Shoulders Display', cursive;
+ font-size: 25px;
+ font-weight: 100;
+ margin-top: 20px;
+ position: relative;
+ right: -20px;
+ letter-spacing: 1px;
+ height: 1px;
+ width: 25px;
+}
 /* the car icons */
 img{
  width: 50;
@@ -41,7 +53,7 @@ p{
  margin-top: 20px;
  padding: 20px;
 }
-/* first div */
+/* second div */
 .wrap1{
  background-color: hsl(31, 77%, 52%);
  color: hsla(0, 0%, 100%, 0.75);
@@ -53,7 +65,7 @@ p{
  border-top-left-radius: 3%;
  border-bottom-left-radius: 3%;
 }
-/* second div */
+/* third div */
 .wrap2{
  background-color: hsl(184, 100%, 22%);
  color: hsla(0, 0%, 100%, 0.75);
@@ -63,7 +75,7 @@ p{
  font-weight: 100;
  width: 60%;
 }
-/* third div */
+/* fourth div */
 .wrap3{
  background-color: hsl(179, 100%, 13%);
  color: hsla(0, 0%, 100%, 0.75);
