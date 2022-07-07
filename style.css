@@ -23,12 +23,17 @@ img{
  position: relative;
  right: -20px;
 }
-.car{
+a{
+ text-decoration: none;
  background-color: hsl(0, 0%, 95%);
  color: hsl(31, 77%, 52%);
  font-family: 'Big Shoulders Display', cursive;
  position: absolute;
  top: 10px;
+}
+a:hover{
+ color: red;
+ text-decoration: underline;
 }
 /* Heading one */
 h1{
