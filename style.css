@@ -25,7 +25,7 @@ img{
 }
 .car{
  background-color: hsl(0, 0%, 95%);
- color: #f0a9a6;
+ color: hsl(31, 77%, 52%);
  font-family: 'Big Shoulders Display', cursive;
  position: absolute;
  top: 10px;
